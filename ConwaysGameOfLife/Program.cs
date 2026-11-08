@@ -11,10 +11,10 @@ class Program
         Console.Clear();
         while (true)
         {
-            game.Render();   // Draw current state
-            game.Tick();     // Calculate next state
+            game.Render(); 
+            game.Tick();     
             
-            Thread.Sleep(100); // Control the speed (100ms per frame)
+            Thread.Sleep(100); 
         }
     }
 }
