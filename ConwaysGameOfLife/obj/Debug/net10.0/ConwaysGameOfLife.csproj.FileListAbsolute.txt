@@ -1,0 +1,14 @@
+/home/karlo/RiderProjects/ConwaysGameOfLife/ConwaysGameOfLife/bin/Debug/net10.0/ConwaysGameOfLife
+/home/karlo/RiderProjects/ConwaysGameOfLife/ConwaysGameOfLife/bin/Debug/net10.0/ConwaysGameOfLife.deps.json
+/home/karlo/RiderProjects/ConwaysGameOfLife/ConwaysGameOfLife/bin/Debug/net10.0/ConwaysGameOfLife.runtimeconfig.json
+/home/karlo/RiderProjects/ConwaysGameOfLife/ConwaysGameOfLife/bin/Debug/net10.0/ConwaysGameOfLife.dll
+/home/karlo/RiderProjects/ConwaysGameOfLife/ConwaysGameOfLife/bin/Debug/net10.0/ConwaysGameOfLife.pdb
+/home/karlo/RiderProjects/ConwaysGameOfLife/ConwaysGameOfLife/obj/Debug/net10.0/ConwaysGameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+/home/karlo/RiderProjects/ConwaysGameOfLife/ConwaysGameOfLife/obj/Debug/net10.0/ConwaysGameOfLife.AssemblyInfoInputs.cache
+/home/karlo/RiderProjects/ConwaysGameOfLife/ConwaysGameOfLife/obj/Debug/net10.0/ConwaysGameOfLife.AssemblyInfo.cs
+/home/karlo/RiderProjects/ConwaysGameOfLife/ConwaysGameOfLife/obj/Debug/net10.0/ConwaysGameOfLife.csproj.CoreCompileInputs.cache
+/home/karlo/RiderProjects/ConwaysGameOfLife/ConwaysGameOfLife/obj/Debug/net10.0/ConwaysGameOfLife.dll
+/home/karlo/RiderProjects/ConwaysGameOfLife/ConwaysGameOfLife/obj/Debug/net10.0/refint/ConwaysGameOfLife.dll
+/home/karlo/RiderProjects/ConwaysGameOfLife/ConwaysGameOfLife/obj/Debug/net10.0/ConwaysGameOfLife.pdb
+/home/karlo/RiderProjects/ConwaysGameOfLife/ConwaysGameOfLife/obj/Debug/net10.0/ConwaysGameOfLife.genruntimeconfig.cache
+/home/karlo/RiderProjects/ConwaysGameOfLife/ConwaysGameOfLife/obj/Debug/net10.0/ref/ConwaysGameOfLife.dll
